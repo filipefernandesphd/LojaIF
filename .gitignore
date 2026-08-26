@@ -91,3 +91,4 @@ target/
 .DS_Store
 relatorio-vendas.txt
 TEACHER_GUIDE.md
+prompts/
